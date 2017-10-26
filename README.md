@@ -1,2 +1,2 @@
 # TITAN
-repository to store code for TITAN bot
+repository to store code for TITAN bot.
